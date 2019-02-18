@@ -1,0 +1,22 @@
+/* components/ui/Toast/index.js.wxss */
+.content {
+  background: rgba(0, 0, 0, 0.6);
+  color: #FFF;
+  text-align: center;
+  font-size: 24rpx;
+  line-height: 48rpx;
+  padding: 20rpx 20rpx;
+  border-radius: 10rpx;
+  box-sizing: border-box;
+}
+.toast-wraper {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 80%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}

@@ -1,0 +1,24 @@
+{
+    "permission": {
+        "scope.userLocation": {
+            "desc": "您的定位信息用于更精准的获取附近可配送门店"
+        }
+    },
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#262932",
+        "navigationBarTextStyle": "white",
+        "backgroundTextStyle": "light",
+        "navigationBarTitleText": "WeChat"
+    },
+    "networkTimeout": {
+        "request": 10000
+    },
+    "plugins": {
+    },
+    "navigateToMiniProgramAppIdList": [
+    ]
+}
