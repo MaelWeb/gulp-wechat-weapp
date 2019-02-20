@@ -1,5 +1,5 @@
-// import WXPage from 'libs/WXPage/index';
-require('libs/WXPage/index');
+import 'libs/WXPage/index';
+// require('libs/WXPage/index');
 
 App.A({
     config: {

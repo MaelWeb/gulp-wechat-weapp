@@ -1,5 +1,5 @@
 {
-  "name": "gulp-wechat-app",
+  "name": "gulp-wechat-weapp",
   "version": "1.0.0",
   "description": "微信小程序项目架构",
   "main": "src/app.js",
@@ -9,6 +9,7 @@
     "gulp-rename": "^1.4.0"
   },
   "devDependencies": {
+    "css-aliases": "^1.1.9",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0",
     "gulp-clean": "^0.4.0",
@@ -16,10 +17,10 @@
     "gulp-eslint": "^5.0.0",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^5.0.3",
-    "gulp-miniprogram-path-alias": "^0.1.6",
     "gulp-qiniu-utils": "^2.0.1",
     "gulp-url-prefixer": "0.0.6",
-    "gulp-util": "^3.0.8"
+    "gulp-util": "^3.0.8",
+    "gulp-wechat-weapp-src-alisa": "^1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
