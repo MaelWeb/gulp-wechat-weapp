@@ -1,6 +1,6 @@
 # gulp wechat app
 
-> [Gulp](https://gulpjs.com) 助力原生小程序开发。
+> [Gulp](https://gulpjs.com) 助力原生小程序开发。参考博客文章 [手把手教你在小程序项目中配置Gulp](https://www.liayal.com/article/5c6b76a6c0ab13505eeefaaf)
 
 ### 我用gulp干啥了
 
